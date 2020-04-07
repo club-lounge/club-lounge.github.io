@@ -11,7 +11,10 @@ This application will be made with:
 * [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
 
 #### Goals for the project:
-
+* Landing page (the homepage of the website)
+* Create a club page
+* Join a club page
+* Upcoming events page
 
 #### Future Systems:
 * Different Navigation bar/pages for visitor/login-user/login club board members/administrator
