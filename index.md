@@ -10,4 +10,18 @@ This application will be made with:
 * [Semantic UI React](https://react.semantic-ui.com/) CSS Framework for UI design.
 * [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
 
-Goals for the project:
+### Goals for the project:
+
+
+### Future Systems:
+* Different Navigation bar/pages for visitor/login-user/login club board members/administrator
+* Display Upcoming event on the Club card
+* Dynamic club pages
+
+### Mock up:
+
+Display of recent event (like timestamped note) on the club card
+![](http://courses.ics.hawaii.edu/ics314s20/morea/meteor-3/experience-meteor-digits-5-1.png)
+
+Forms for creating a new club page
+![](http://courses.ics.hawaii.edu/ics314s20/morea/meteor-3/experience-meteor-digits-4-1.png)
