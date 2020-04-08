@@ -27,12 +27,17 @@ This application will be made with:
 * Upcoming events page
 
 ## Implementation:
+
 #### Nomin Boldbayar - *Upcoming events page*
 details''
+
 #### Jun Miao - *Landing page*
-details''
+If user is not logged in, site would only display the landing page with no navigation bar. From the landing page, there would be the site name and a little description about what the application would do. There would be two buttons at the center of the page to prompt user to either login or sign up.
+If user is logged in, then navigation bar would be visible with the appropriate options. On the landing page, the login and sign up options would be replaced with mini-window of upcoming events.
+
 #### Vince Khyla Rabang - *Create a club page*
 details''
+
 #### Sang Jin Lee - *Join a club page*
 details''
 
