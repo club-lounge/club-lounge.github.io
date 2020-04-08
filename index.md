@@ -28,12 +28,16 @@ This application will be made with:
 
 ## Implementation:
 
-#### Nomin Boldbayar - *Upcoming events page*
-details''
-
 #### Jun Miao - *Landing page*
 * If user is not logged in, site would only display the landing page with no navigation bar. From the landing page, there would be the site name and a little description about what the application would do. There would be two buttons at the center of the page to prompt user to either login or sign up.
 * If user is logged in, then navigation bar would be visible with the appropriate options. On the landing page, the login and sign up options would be replaced with mini-window of upcoming events.
+
+#### Nomin Boldbayar - *Upcoming events page*
+* After user logs in, they can see the upcoming events page in the navigation bar. They can click on the link and it will show 
+all the events hosted by the UH registered clubs. 
+* All the events are formed as a card form of Semantic-UI React. Each card has information about the event itself, and who's hosting 
+the event as well. In addition to the card, on each card, it will have two buttons, offering the user to register for the event and 
+to see more information about the event. 
 
 #### Vince Khyla Rabang - *Create a club page*
 * When the admin is logged in, the admin will land on the admin page and on the navigation bar there will be a create club option. The admins are the only ones who can see the page.
@@ -51,6 +55,7 @@ details''
 * Role system(club admin, etc) for club pages
 * Display Upcoming event on the Club card
 * Dynamic club pages
+* Recommended Events page to offer the user based on their interests or attended events. 
 
 ## Mock up:
 
