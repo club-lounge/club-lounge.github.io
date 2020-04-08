@@ -39,7 +39,10 @@ details''
 details''
 
 #### Sang Jin Lee - *Join a club page*
-details''
+* There will be a search bar somewhere at the top where the user can search for the club that they would like to join.
+* There will be a join button for each clubs and the user will be able to join however many clubs they desire.
+* If the user has already join a certain club, a leave button will pop up if the user wants to leave the club that they have joined and will disappear once it is clicked.
+
 
 ## Future Systems:
 * Different Navigation bar/pages for visitor/login-user/login club board members/administrator
