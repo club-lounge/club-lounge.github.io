@@ -36,7 +36,8 @@ details''
 * If user is logged in, then navigation bar would be visible with the appropriate options. On the landing page, the login and sign up options would be replaced with mini-window of upcoming events.
 
 #### Vince Khyla Rabang - *Create a club page*
-details''
+* When the admin is logged in, the admin will land on the admin page and on the navigation bar there will be a create club option. The admins are the only ones who can see the page.
+* When the admin decides to create a club, the page will be a forum. The forum will ask the information of the club, such as the name, founder, email, etc. 
 
 #### Sang Jin Lee - *Join a club page*
 * There will be a search bar somewhere at the top where the user can search for the club that they would like to join.
