@@ -12,14 +12,10 @@ This application will be made with:
 * [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
 
 ## Team members
-![](https://ca.slack-edge.com/TS7NRJMB7-USNL7176H-27f62c72d972-512)
-Jun Miao
-![](https://ca.slack-edge.com/TS7NRJMB7-USUE27546-7121d2b6c43a-512)
-Nomin Boldbayar
-![](https://ca.slack-edge.com/TS7NRJMB7-USSR330BG-e635f9b587c5-512)
-Vince Khyla Rabang
-![](https://ca.slack-edge.com/TS7NRJMB7-USQ5Z6B5M-74f034795f47-512)
-Sang Jin Lee
+1. Jun Miao
+1. Nomin Boldbayar
+1 .Vince Khyla Rabang
+1. Sang Jin Lee
 
 #### Goals for the project:
 * Landing page (the homepage of the website)
@@ -27,14 +23,14 @@ Sang Jin Lee
 * Join a club page
 * Upcoming events page
 
-#### How we are going to implement the pages:
-# Nomin Boldbayar - *Upcoming events page*
+### Implementing:
+##### Nomin Boldbayar - *Upcoming events page*
 details''
-# Jun Miao - *Landing page*
+##### Jun Miao - *Landing page*
 details''
-# Vince Khyla Rabang - *Create a club page*
+##### Vince Khyla Rabang - *Create a club page*
 details''
-# Sang Jin Lee - *Join a club page*
+##### Sang Jin Lee - *Join a club page*
 details''
 
 #### Future Systems:
