@@ -1,6 +1,9 @@
 ## Table of Contents
 * [Overview](#overview)
 * [Team Members](#team-members)
+* [Implementation](#implementation)
+* [Future Systems](#future-systems)
+* [Mock Up](#mock-up)
 
 ## Overview
 Club lounge is an web application designed for UH club community that allows club to create their own club page and event.
@@ -14,7 +17,7 @@ This application will be made with:
 ## Team members
 1. Jun Miao
 1. Nomin Boldbayar
-1 .Vince Khyla Rabang
+1. Vince Khyla Rabang
 1. Sang Jin Lee
 
 #### Goals for the project:
@@ -23,24 +26,24 @@ This application will be made with:
 * Join a club page
 * Upcoming events page
 
-### Implementing:
-##### Nomin Boldbayar - *Upcoming events page*
+## Implementation:
+#### Nomin Boldbayar - *Upcoming events page*
 details''
-##### Jun Miao - *Landing page*
+#### Jun Miao - *Landing page*
 details''
-##### Vince Khyla Rabang - *Create a club page*
+#### Vince Khyla Rabang - *Create a club page*
 details''
-##### Sang Jin Lee - *Join a club page*
+#### Sang Jin Lee - *Join a club page*
 details''
 
-#### Future Systems:
+## Future Systems:
 * Different Navigation bar/pages for visitor/login-user/login club board members/administrator
 * Abilities for Club page submition by user for admin approval
 * Role system(club admin, etc) for club pages
 * Display Upcoming event on the Club card
 * Dynamic club pages
 
-#### Mock up:
+## Mock up:
 
 Display of recent event (like timestamped note) on the club card
 ![](http://courses.ics.hawaii.edu/ics314s20/morea/meteor-3/experience-meteor-digits-5-1.png)
