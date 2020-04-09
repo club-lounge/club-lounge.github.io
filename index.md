@@ -59,8 +59,14 @@ to see more information about the event.
 
 ## Mock up:
 
-Display of recent event (like timestamped note) on the club card
-![](http://courses.ics.hawaii.edu/ics314s20/morea/meteor-3/experience-meteor-digits-5-1.png)
+Landing Page for visitors
+![](images/landing.png)
+
+Landing Page for users
+![](images/landing_user.png)
+
+Display of recent event on the club card
+![](images/club.png)
 
 Forms for creating a new club page
-![](http://courses.ics.hawaii.edu/ics314s20/morea/meteor-3/experience-meteor-digits-4-1.png)
+![](images/user_request.png)
