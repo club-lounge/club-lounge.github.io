@@ -70,3 +70,36 @@ Display of recent event on the club card
 
 Forms for creating a new club page
 ![](images/user_request.png)
+
+### Meeting: 4/11/2020 - database set up
+
+#### Club Info
+- Club name :: solid
+- Club email :: solid - owner state - admin approved
+- Image :: required
+- background image :: optional
+- club website :: optional
+- bio for the club
+
+Note: __*edit club info only under club role*__
+
+#### Join a club
+- add "veiw page" >> shows info about the club
+- join the club button
+- implement search element to search for specific club
+
+#### Add Event: Only under club page
+__*everything is required* *__
+- image 
+- event name
+- location & time
+- description
+
+Note: __*edit event info only under club role*__
+
+#### Profile for users --> Register info
+- first name :: can change
+- last name :: can change
+- image :: can change
+- email :: solid
+- password :: solid
