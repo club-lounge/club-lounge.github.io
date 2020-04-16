@@ -1,9 +1,10 @@
 ## Table of Contents
 * [Overview](#overview)
 * [Team Members](#team-members)
-* [Implementation](#implementation)
+* [Milestone 1](#milestone-1)
+* [Mock Up](#mockups)
+* [Milestone 2](#milestone-2)
 * [Future Systems](#future-systems)
-* [Mock Up](#mock-up)
 
 ## Overview
 Club lounge is an web application designed for UH club community that allows club to create their own club page and event.
@@ -20,13 +21,12 @@ This application will be made with:
 1. Vince Khyla Rabang
 1. Sang Jin Lee
 
-#### Goals for the project:
-* Landing page (the homepage of the website)
-* Create a club page
-* Join a club page
-* Upcoming events page
+## Milestone 1
+Our organization: [Club Lounge](https://github.com/club-lounge)
 
-## Implementation:
+Milestone 1 was managed through [Club-Lounge GitHub project board](https://github.com/club-lounge/club-lounge/projects/2).
+
+Deployment: http://clublounge.meteorapp.com/
 
 #### Jun Miao - *Landing page*
 * If user is not logged in, site would only display the landing page with no navigation bar. From the landing page, there would be the site name and a little description about what the application would do. There would be two buttons at the center of the page to prompt user to either login or sign up.
@@ -48,30 +48,41 @@ to see more information about the event.
 * There will be a join button for each clubs and the user will be able to join however many clubs they desire.
 * If the user has already join a certain club, a leave button will pop up if the user wants to leave the club that they have joined and will disappear once it is clicked.
 
-
-## Future Systems:
-* Different Navigation bar/pages for visitor/login-user/login club board members/administrator
-* Abilities for Club page submition by user for admin approval
-* Role system(club admin, etc) for club pages
-* Display Upcoming event on the Club card
-* Dynamic club pages
-* Recommended Events page to offer the user based on their interests or attended events. 
-
-## Mock up:
+## Mockups
 
 Landing Page for visitors
-![](images/landing.png)
+
+![](images/landing-page.PNG)
+> http://clublounge.meteorapp.com
 
 Landing Page for users
-![](images/landing_user.png)
 
-Display of recent event on the club card
-![](images/club.png)
+![](images/landing-signed-in.PNG)
+> http://clublounge.meteorapp.com/#/
+
+Upcoming page, shown in cards
+
+![](images/upcoming-events.PNG)
+> http://clublounge.meteorapp.com/#/upcomingevents
+
+Join a club page
+
+![](images/join.PNG)
+> http://clublounge.meteorapp.com/#/joinclub
 
 Forms for creating a new club page
-![](images/user_request.png)
 
-### Meeting: 4/11/2020 - database set up
+![](images/create.PNG)
+> http://clublounge.meteorapp.com/#/create
+
+When the user submits the form for creating a club, 
+only admin can see the request made by the user
+
+![](images/approve-admin.PNG)
+> http://clublounge.meteorapp.com/#/requests
+
+## Milestone 2
+Milestone 2 is managed through [Club-Lounge GitHub project board](https://github.com/club-lounge/club-lounge/projects/3).
 
 #### Club Info
 - Club name :: solid
@@ -81,7 +92,7 @@ Forms for creating a new club page
 - club website :: optional
 - bio for the club
 
-Note: __*edit club info only under club role*__
+__*Note*__: edit club info only under club role
 
 #### Join a club
 - add "veiw page" >> shows info about the club
@@ -95,11 +106,20 @@ __*everything is required* *__
 - location & time
 - description
 
-Note: __*edit event info only under club role*__
+__*Note*__: edit event info only under club role
 
-#### Profile for users --> Register info
+#### Profile for users: Register info
 - first name :: can change
 - last name :: can change
 - image :: can change
 - email :: solid
 - password :: solid
+
+
+## Future Systems:
+* Different Navigation bar/pages for visitor/login-user/login club board members/administrator
+* Abilities for Club page submition by user for admin approval
+* Role system(club admin, etc) for club pages
+* Display Upcoming event on the Club card
+* Dynamic club pages
+* Recommended Events page to offer the user based on their interests or attended events. 
