@@ -2,8 +2,8 @@
 * [Overview](#overview)
 * [Team Members](#team-members)
 * [Milestone 1](#milestone-1)
-* [Mock Up](#mockups)
 * [Milestone 2](#milestone-2)
+* [Mock Up](#mockups)
 * [Future Systems](#future-systems)
 
 ## Overview
@@ -16,17 +16,20 @@ This application will be made with:
 * [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
 
 ## Team members
-1. Jun Miao
-1. Nomin Boldbayar
-1. Vince Khyla Rabang
-1. Sang Jin Lee
+* Jun Miao
+* Nomin Boldbayar
+* Vince Khyla Rabang
+* Sang Jin Lee
 
 ## Milestone 1
-Our organization: [Club Lounge](https://github.com/club-lounge)
 
 Milestone 1 was managed through [Club-Lounge GitHub project board](https://github.com/club-lounge/club-lounge/projects/2).
 
-Deployment: http://clublounge.meteorapp.com/
+Our organization is called [Club Lounge](https://github.com/club-lounge), and you can access the application through our
+meteor galaxy deployment [here](http://clublounge.meteorapp.com/).
+
+The results of our milestone 1 is shows below in the mockup section, each picture's title is linked to the meteor deployment
+of the same page displayed. 
 
 #### Jun Miao - *Landing page*
 * If user is not logged in, site would only display the landing page with no navigation bar. From the landing page, there would be the site name and a little description about what the application would do. There would be two buttons at the center of the page to prompt user to either login or sign up.
@@ -48,59 +51,31 @@ to see more information about the event.
 * There will be a join button for each clubs and the user will be able to join however many clubs they desire.
 * If the user has already join a certain club, a leave button will pop up if the user wants to leave the club that they have joined and will disappear once it is clicked.
 
-## Mockups
-
-Landing Page for visitors
-
-![](images/landing-page.PNG)
-> http://clublounge.meteorapp.com
-
-Landing Page for users
-
-![](images/landing-signed-in.PNG)
-> http://clublounge.meteorapp.com/#/
-
-Upcoming page, shown in cards
-
-![](images/upcoming-events.PNG)
-> http://clublounge.meteorapp.com/#/upcomingevents
-
-Join a club page
-
-![](images/join.PNG)
-> http://clublounge.meteorapp.com/#/joinclub
-
-Forms for creating a new club page
-
-![](images/create.PNG)
-> http://clublounge.meteorapp.com/#/create
-
-When the user submits the form for creating a club, 
-only admin can see the request made by the user
-
-![](images/approve-admin.PNG)
-> http://clublounge.meteorapp.com/#/requests
 
 ## Milestone 2
 Milestone 2 is managed through [Club-Lounge GitHub project board](https://github.com/club-lounge/club-lounge/projects/3).
 
+### Database setup
 #### Club Info
-- Club name :: solid
-- Club email :: solid - owner state - admin approved
-- Image :: required
-- background image :: optional
-- club website :: optional
+
+- Club name >> solid
+- Club email >> solid - owner state - admin approved
+- Image >> required
+- background image >> optional
+- club website >> optional
 - bio for the club
 
 __*Note*__: edit club info only under club role
 
 #### Join a club
+
 - add "veiw page" >> shows info about the club
 - join the club button
 - implement search element to search for specific club
 
 #### Add Event: Only under club page
 __*everything is required* *__
+
 - image 
 - event name
 - location & time
@@ -109,12 +84,39 @@ __*everything is required* *__
 __*Note*__: edit event info only under club role
 
 #### Profile for users: Register info
-- first name :: can change
-- last name :: can change
-- image :: can change
-- email :: solid
-- password :: solid
 
+- first name >> can be changed
+- last name >> can be changed
+- image >> can be changed
+- email >> solid
+- password >> solid
+
+## Mockups
+
+[Landing Page](http://clublounge.meteorapp.com) for visitors
+
+![](images/landing-page.PNG)
+
+[Landing Page](http://clublounge.meteorapp.com/#/) for users
+
+![](images/landing-signed-in.PNG)
+
+[Upcoming page](http://clublounge.meteorapp.com/#/upcomingevents), shown in cards
+
+![](images/upcoming-events.PNG)
+
+[Join a club](http://clublounge.meteorapp.com/#/joinclub) page
+
+![](images/join.PNG)
+
+Forms for [creating a new club](http://clublounge.meteorapp.com/#/create) page
+
+![](images/create.PNG)
+
+When the user submits the form for creating a club, 
+only admin can see the [request made by the user](http://clublounge.meteorapp.com/#/requests)
+
+![](images/approve-admin.PNG)
 
 ## Future Systems:
 * Different Navigation bar/pages for visitor/login-user/login club board members/administrator
