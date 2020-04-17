@@ -28,7 +28,7 @@ Milestone 1 was managed through [Club-Lounge GitHub project board](https://githu
 Our organization is called [Club Lounge](https://github.com/club-lounge), and you can access the application through our
 meteor galaxy deployment [here](http://clublounge.meteorapp.com/).
 
-The results of our milestone 1 is shows below in the mockup section, each picture's title is linked to the meteor deployment
+The results of our milestone 1 is shows below in the [mockup](#mockups) section, each picture's title is linked to the meteor deployment
 of the same page displayed. 
 
 #### Jun Miao - *Landing page*
