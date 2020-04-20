@@ -16,10 +16,10 @@ This application will be made with:
 * [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
 
 ## Team members
-* Jun Miao
-* Nomin Boldbayar
-* Vince Khyla Rabang
-* Sang Jin Lee
+* [Jun Miao](https://junm1ao.github.io/)
+* [Nomin Boldbayar](https://nominbold.github.io/)
+* [Vince Khyla Rabang](https://vrabang.github.io/)
+* [Sang Jin Lee](https://sangjinlee808.github.io/)
 
 ## Milestone 1
 
