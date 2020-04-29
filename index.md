@@ -47,28 +47,28 @@ of the app does.
 
 ![](images/landing-signed-in.PNG)
 
-### [Upcoming Events](http://clublounge.meteorapp.com/#/upcomingevents)
+#### [Upcoming Events](http://clublounge.meteorapp.com/#/upcomingevents)
 Upcoming events shows all the events hosted by the clubs
 and user is given an option to either register for 
 the event or see more info about the event.
 
 ![](images/upcoming-events.PNG)
 
-### [Join a club](http://clublounge.meteorapp.com/#/joinclub)
+#### [Join a club](http://clublounge.meteorapp.com/#/joinclub)
 Join a club page shows all the clubs and gives the user an option
 to either join the club or see more info abou the club. Once they
 join the club, the join club option will be disabled. 
 
 ![](images/join.PNG)
 
-### [Create a club](http://clublounge.meteorapp.com/#/create)
+#### [Create a club](http://clublounge.meteorapp.com/#/create)
 Create a club presents a form where the user can create a club
 and their request is sent to the admin where they can either approve
 or decline their club request
 
 ![](images/create.PNG)
 
-### [Approve(Admin)](http://clublounge.meteorapp.com/#/requests)
+#### [Approve(Admin)](http://clublounge.meteorapp.com/#/requests)
 Admin has a different page option where it shows all the 
 club requests made by the users. Admin has an option
 to approve or decline the request. Once the admin approve
@@ -103,7 +103,7 @@ Fourth, run the system with:
 If everything is set up well, the application will appear
 at [http://localhost:3000](http://localhost:3000).
 
-## Initialization
+### Initialization
 The config directory is intended to hold settings files. The 
 repository contains one file: config/settings.development.json.
 
@@ -120,32 +120,42 @@ settings file.
 
 Milestone 1 was managed through [Club-Lounge GitHub project board](https://github.com/club-lounge/club-lounge/projects/2).
 
-Our organization is called [Club Lounge](https://github.com/club-lounge), and you can access the application through our
-meteor galaxy deployment [here](http://clublounge.meteorapp.com/).
-
-The results of our milestone 1 is shows below in the [mockup](#mockups) section, each picture's title is linked to the meteor deployment
+### Mockup stage
+The results of our milestone 1 is shown in the [user guie](#user-guide) section, each picture's title is linked to the meteor deployment
 of the same page displayed. 
 
 #### Jun Miao - *Landing page*
-* If user is not logged in, site would only display the landing page with no navigation bar. From the landing page, there would be the site name and a little description about what the application would do. There would be two buttons at the center of the page to prompt user to either login or sign up.
-* If user is logged in, then navigation bar would be visible with the appropriate options. On the landing page, the login and sign up options would be replaced with three segments explaining what the application does.
+* If user is not logged in, site would only display the landing page with no navigation bar. 
+From the landing page, there would be the site name and a little description about what the 
+application would do. There would be two buttons at the center of the page to prompt user 
+to either login or sign up.
+* If user is logged in, then navigation bar would be visible with the appropriate options. 
+On the landing page, the login and sign up options would be replaced with three segments 
+explaining what the application does.
 
 #### Nomin Boldbayar - *Upcoming events page*
-* After user logs in, they can see the upcoming events page in the navigation bar. They can click on the link and it will show 
+* After user logs in, they can see the upcoming events page in the navigation bar. 
+They can click on the link and it will show 
 all the events hosted by the UH registered clubs. 
-* All the events are formed as a card form of Semantic-UI React. Each card has information about the event itself, and who's hosting 
-the event as well. In addition to the card, on each card, it will have two buttons, offering the user to register for the event and 
+* All the events are formed as a card form of Semantic-UI React. Each card has 
+information about the event itself, and who's hosting 
+the event as well. In addition to the card, on each card, it will have two buttons, 
+offering the user to register for the event and 
 to see more information about the event. 
 
 #### Vince Khyla Rabang - *Create a club page*
-* On the navigation bar there will be a create club option for all users. Once they fill out the form, the information will be sent
+* On the navigation bar there will be a create club option for all users. 
+Once they fill out the form, the information will be sent
 to the admin database, awaiting for their approval.
-* Once the club is approved, the club will have a 'club' role allowing them to add events, edit their events, and edit their
+* Once the club is approved, the club will have a 'club' role allowing them 
+to add events, edit their events, and edit their
 club info. 
 
 #### Sang Jin Lee - *Join a club page*
-* There will be a join button for each clubs and the user will be able to join however many clubs they desire.
-* If the user is already joined certain club, the join button will disabled. (Leave club button will be implemented after the database
+* There will be a join button for each clubs and the user will be able 
+to join however many clubs they desire.
+* If the user is already joined certain club, the join button will disabled. 
+(Leave club button will be implemented after the database
 is set up.)
 * Search bar for the clubs will be implemented after the database is set up. 
 
@@ -153,13 +163,15 @@ is set up.)
 Milestone 2 is managed through [Club-Lounge GitHub project board](https://github.com/club-lounge/club-lounge/projects/3).
 
 ### Database setup
-For milestone 2, we will be focusing more on linking everything together. We will set up the database, and implement needed linking
+For milestone 2, we will be focusing more on linking everything together. 
+We will set up the database, and implement needed linking
 to each button and forms. And throughout the process, we discussed about
 our application's "special sauce", which we will be working
 on Milestone 3. 
 
 #### Jun Miao - *Search Club* & *Club approval*
-* search section in the "Join a club" allows the user to a live search the clubs based on their name
+* Search section in the "Join a club" allows the user to a live search the 
+clubs based on their name
 * Once the admin goes to the "Approve(Admin)" page, which only they can see, can choose to 
 wither approve ot decline the request made by the user. If they approve the club, they will 
 appear on the "Join a club" page. On the other hand, if they decline the request, the request 
@@ -189,7 +201,7 @@ and the "join" button will be disabled once they join the club.
 in their special page called "Attendees(Admin)". 
 
 ## Milestone 3
-Milestone 3 is managed through [Club-Lounge GitHub project board]().
+Milestone 3 is managed through [Club-Lounge GitHub project board](https://github.com/club-lounge/club-lounge/projects/4).
 
 #### Special Sauce
 * There will be filter based on the event's tags so
@@ -197,7 +209,9 @@ user can find events based on their interests.
 * Profile page will be able to post user's joined 
 clubs and registered events.
 * More info on "Join a club" will be able to show 
-all the events hosted by the club themselves. 
+all the events hosted by the club themselves, even the
+members of the club. 
+* Perfecting the internal works within the application. 
 
 ## Future Systems:
 * Different Navigation bar/pages for visitor/login-user/login club board members/administrator
