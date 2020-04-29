@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9e3bd155-615c-44b5-a0fc-be26dbdbd5d8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +34,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../club-lounge" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -64,5 +65,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="305" y="70" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1586677458569" />
+    <state x="317" y="48" width="672" height="678" key="search.everywhere.popup" timestamp="1588140103271">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="317" y="48" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1588140103271" />
   </component>
 </project>
