@@ -211,7 +211,6 @@ clubs and registered events.
 * More info on "Join a club" will be able to show 
 all the events hosted by the club themselves, even the
 members of the club. 
-* Perfecting the internal works within the application. 
 
 ## Future Systems:
 * Different Navigation bar/pages for visitor/login-user/login club board members/administrator
