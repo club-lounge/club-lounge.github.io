@@ -153,10 +153,18 @@ Milestone 3 is managed through [Club-Lounge GitHub project board](https://github
 
 #### Jun Miao - *Tag system for events*
 * creating tag systems, created by the admin, and the tags are
-meant for the events. Under the upcoming event's page, 
+meant for the events. Under the upcoming event's page, the user
+can search events based on their tags, and choose the event
+they want to go.
 
 #### Nomin Boldbayar - *Profile: showing clubs and events*
+* Under the profile, the user can see the clubs they are in
+and events they registered for.
 
 #### Vince Khyla Rabang - *Events: showing tags on events*
+* When the user presses the more info on event, the user 
+can see the tags on the new page as well. 
 
 #### Sang Jin Lee - *Clubs: showing hosted events on club info*
+* When the user clicks the more info on club, the user 
+can see the hosted events by the club. 
