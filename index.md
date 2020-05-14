@@ -55,6 +55,10 @@ so user can find events that relates to them the most.
 
 ![](images/upcomingevents.PNG)
 
+After the user clicks "more info", they are greeted with
+more information about the event and who else is joining
+the event.
+
 ![](images/event-user.PNG)
 
 #### Clubs
