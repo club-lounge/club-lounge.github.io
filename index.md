@@ -33,16 +33,6 @@ Tha landing page is present to users when they visit the app, and it gives the u
 
 ![](/images/landing1.png)
 
-#### [Landing Page](http://localhost:3000/#/)
-Once the user signed in to the app, they are presented with a different landing page. Explaining what each option of the app does.
-
-![](/images/landingpage.png)
-
-#### Landing Page
-This is how the application would greet the user by asking the user to either sign in if they have an account already or sign up if they're new to the application.
-
-![](/images/upcoming.png)
-
 #### Landing Page After Sign In
 Once the user is signed in to the app, they are presented with a different landing page. Explaining what each option of the app does.
 
@@ -67,12 +57,12 @@ Once the user clicks on the "more info", they will be greeted with a different p
 #### [Approve(Admin)](http://localhost:3000/#/requests)
 Admin has a different page option where it shows all the club requests made by the users. Admin has an option to approve or decline the request. Once the admin approve the club request, their club shows up into the "Join a club" page allowing users to join the club, but when the admin declines the request, the request will disappear.
 
-![](/images/approve.png)
+![](/images/approve.PNG)
 
 #### [Event Tags(Admin)](http://localhost:3000/#/manage_tags)
 Page that allows admin to edit event tags available for clubs to use for their events. There is option to remove an existing tag or add new ones.
 
-![](/images/tags.png)
+![](/images/tags.PNG)
 
 ## Developer Guide
 This section gives the information of interest to Meteor developers wishing to user this code as a basis for their own development.
