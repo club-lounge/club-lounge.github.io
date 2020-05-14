@@ -168,11 +168,3 @@ Milestone 3 is managed through [Club-Lounge GitHub project board](https://github
 #### Vince Khyla Rabang - *Events: showing tags on events*
 
 #### Sang Jin Lee - *Clubs: showing hosted events on club info*
-
-## Future Systems:
-* Different Navigation bar/pages for visitor/login-user/login club board members/administrator
-* Abilities for Club page submition by user for admin approval
-* Role system(club admin, etc) for club pages
-* Display Upcoming event on the Club card
-* Dynamic club pages
-* Recommended Events page to offer the user based on their interests or attended events.
