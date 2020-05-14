@@ -159,3 +159,8 @@ Milestone 3 is managed through [Club-Lounge GitHub project board](https://github
 * There will be filter based on the event's tags so user can find events based on their interests. 
 * Profile page will be able to post user's joined clubs and registered events.
 * More info on "Join a club" will be able to show all the events hosted by the club themselves, even the members of the club. 
+
+#### User Feedback
+
+Yeji Lee (Former UH Manoa sutdent)
+"I was able to to join a club, created a club, and join any upcoming events avaliable. However, one of the problems that I came across was uploading a image on my profile. I also can't edit my profile's image."
