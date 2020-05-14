@@ -8,7 +8,7 @@
 * [Milestone 3](#milestone-3)
 
 ## Overview
-Our organization is call [Club Lounge](https://github.com/club-lounge).
+Our organization is called [Club Lounge](https://github.com/club-lounge).
 
 Club lounge is a web application designed for UH club community allow clubs to create their own club page and event.
 This application will be made with:
@@ -36,7 +36,7 @@ Tha landing page is present to users when they visit the app, and it gives the u
 #### [Landing Page](http://localhost:3000/#/)
 Once the user signed in to the app, they are presented with a different landing page. Explaining what each option of the app does.
 
-![](/images/landing2.png)
+![](/images/landingpage.png)
 
 #### Landing Page
 This is how the application would greet the user by asking the user to either sign in if they have an account already or sign up if they're new to the application.
@@ -162,6 +162,8 @@ Milestone 3 is managed through [Club-Lounge GitHub project board](https://github
 * More info on "Join a club" will be able to show all the events hosted by the club themselves, even the members of the club.
 
 #### Jun Miao - *Tag system for events*
+* creating tag systems, created by the admin, and the tags are
+meant for the events. Under the upcoming event's page, 
 
 #### Nomin Boldbayar - *Profile: showing clubs and events*
 
