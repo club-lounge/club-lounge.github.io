@@ -6,6 +6,7 @@
 * [Milestone 1](#milestone-1)
 * [Milestone 2](#milestone-2)
 * [Milestone 3](#milestone-3)
+* [User Feedback](#user-feedback)
 
 ## Overview
 Our organization is called [Club Lounge](https://github.com/club-lounge).
@@ -28,41 +29,77 @@ This application will be made with:
 
 This section provides a walkthrough of the Club Lounge user interface and its capabilities.
 
-#### [Landing Page](http://localhost:3000/)
-Tha landing page is present to users when they visit the app, and it gives the users to either sign in or sign up to the application.
+#### Landing page
 
-![](/images/landing1.png)
+Tha landing page is present to users when they visit the app, 
+and it gives the users to either sign in or sign up to the
+ application.
+
+![](/images/landing-page.PNG)
 
 #### Landing Page After Sign In
-Once the user is signed in to the app, they are presented with a different landing page. Explaining what each option of the app does.
+Once the user is signed in to the app, they are presented with 
+a different landing page. Explaining what each option of the 
+app does as well as the clubs that user is in.
 
 ![](images/landingpage.PNG)
 
 #### Upcoming Events
-Upcoming events shows all the events hosted by the clubs and user is given an option to either register for the event or see more info about the event.
+Upcoming events shows all the events hosted by the clubs and 
+user is given an option to either register for the event or
+see more info about the event.
 
-Another great feature to our upcoming events is that we have a search bar for the events based on their tags, so user can find events that relates to them the most.
+Another great feature to our upcoming events is that we 
+have a search bar for the events based on their tags, 
+so user can find events that relates to them the most.
 
 ![](images/upcomingevents.PNG)
 
+![](images/event-user.PNG)
+
 #### Clubs
-This page shows all the clubs and gives the user an option to see more info about the club.
+This page shows all the clubs and gives the user an 
+option to see more info about the club.
 
 ![](images/clubs.PNG)
 
-Once the user clicks on the "more info", they will be greeted with a different page containing all the information about the club and option to join the club.
+Once the user clicks on the "more info", 
+they will be greeted with a different page containing 
+all the information about the club and option to join the club.
 
 ![](images/club-user.PNG)
 
-#### [Approve(Admin)](http://localhost:3000/#/requests)
-Admin has a different page option where it shows all the club requests made by the users. Admin has an option to approve or decline the request. Once the admin approve the club request, their club shows up into the "Join a club" page allowing users to join the club, but when the admin declines the request, the request will disappear.
+#### Approve(Admin)
+Admin has a different page option where it shows all 
+the club requests made by the users. Admin has an option 
+to approve or decline the request. Once the admin approve 
+the club request, their club shows up into the "Join a club" 
+page allowing users to join the club, but when the admin 
+declines the request, the request will disappear.
 
 ![](/images/approve.PNG)
 
-#### [Event Tags(Admin)](http://localhost:3000/#/manage_tags)
-Page that allows admin to edit event tags available for clubs to use for their events. There is option to remove an existing tag or add new ones.
+#### Event Tags(Admin)
+Page that allows admin to edit event tags available 
+for clubs to use for their events. There is option to 
+remove an existing tag or add new ones.
 
 ![](/images/tags.PNG)
+
+#### Event(Admin)
+The event page has more options for the admin so that they can
+edit info about the event and add tags as well. 
+
+![](images/event-admin.PNG)
+
+![](images/edit-event-admin.PNG)
+
+#### Club(Admin)
+The admin page can change information about the club.
+
+![](images/club-admin.PNG)
+
+![](images/edit-club-admin.PNG)
 
 ## Developer Guide
 This section gives the information of interest to Meteor developers wishing to user this code as a basis for their own development.
@@ -98,7 +135,8 @@ If you set it to `false`, then it will not read the data from that file. This il
 
 Milestone 1 was managed through [Club-Lounge GitHub project board](https://github.com/club-lounge/club-lounge/projects/2).
 
-### Mockup stage
+**Mockup stage**
+
 The results of our milestone 1 is shown in the [user guie](#user-guide) section, each picture's title is linked to the meteor deployment of the same page displayed.
 
 #### Jun Miao - *Landing page*
@@ -121,7 +159,8 @@ The results of our milestone 1 is shown in the [user guie](#user-guide) section,
 ## Milestone 2
 Milestone 2 is managed through [Club-Lounge GitHub project board](https://github.com/club-lounge/club-lounge/projects/3).
 
-### Database setup
+**Database setup**
+
 For milestone 2, we will be focusing more on linking everything together. We will set up the database, and implement needed linking to each button and forms. And throughout the process, we've discussed application's "special sauce", which we will be working on Milestone 3.
 
 #### Jun Miao - *Search Club* & *Club approval*
@@ -146,7 +185,8 @@ For milestone 2, we will be focusing more on linking everything together. We wil
 ## Milestone 3
 Milestone 3 is managed through [Club-Lounge GitHub project board](https://github.com/club-lounge/club-lounge/projects/4).
 
-#### Special Sauce
+**Special Sauce**
+
 * There will be filter based on the event's tags so user can find events based on their interests.
 * Profile page will be able to post user's joined clubs and registered events.
 * More info on "Join a club" will be able to show all the events hosted by the club themselves, even the members of the club.
@@ -168,3 +208,9 @@ can see the tags on the new page as well.
 #### Sang Jin Lee - *Clubs: showing hosted events on club info*
 * When the user clicks the more info on club, the user 
 can see the hosted events by the club. 
+
+## User Feedback
+* "*I was able to to join a club, created a club, and join any 
+upcoming events avaliable. However, one of the problems that 
+I came across was uploading a image on my profile. I also can't 
+edit my profile's image.*" -Yeji Lee (Former UH Manoa sutdent)
