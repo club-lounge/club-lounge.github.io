@@ -73,6 +73,20 @@ all the information about the club and option to join the club.
 
 ![](images/club-user.PNG)
 
+#### Event(Club Owner & Club Officers)
+The event page has more options for the club owner and club officer so that they can edit info about the event and add tags as well. 
+
+![](images/event-admin.PNG)
+
+![](images/edit-event-admin.PNG)
+
+#### Club Information(Club Owner & Club Officers)
+Giving club owner and club officer the option to edit club information (Member Management is limited to club owner only).
+
+![](images/club-admin.PNG)
+
+![](images/edit-club-admin.PNG)
+
 #### Approve(Admin)
 Admin has a different page option where it shows all 
 the club requests made by the users. Admin has an option 
@@ -89,21 +103,6 @@ for clubs to use for their events. There is option to
 remove an existing tag or add new ones.
 
 ![](/images/tags.PNG)
-
-#### Event(Admin)
-The event page has more options for the admin so that they can
-edit info about the event and add tags as well. 
-
-![](images/event-admin.PNG)
-
-![](images/edit-event-admin.PNG)
-
-#### Club(Admin)
-The admin page can change information about the club.
-
-![](images/club-admin.PNG)
-
-![](images/edit-club-admin.PNG)
 
 ## Developer Guide
 This section gives the information of interest to Meteor developers wishing to user this code as a basis for their own development.
