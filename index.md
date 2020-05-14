@@ -33,33 +33,42 @@ This application will be made with:
 This section provides a walkthrough of the Club Clounge
 user interface and its capabilities.
 
-#### [Landing Page](http://clublounge.meteorapp.com)
-Tha landing page is presented to users when they visit
-the app, and it gives the users to either sign in or 
-sign up to the application. 
+#### Landing Page
+This is how the application would greet the user by 
+asking the user to either sign in if they have an account
+already or sign up if they're new to the application. 
 
 ![](images/landing-page.PNG)
 
-#### [Landing Page](http://clublounge.meteorapp.com/#/)
+#### Landing Page After Sign In
 Once the user is signed in to the app, they are presented
 with a different landing page. Explaining what each option
 of the app does. 
 
-![](images/landing-signed-in.PNG)
+![](images/landingpage.PNG)
 
-#### [Upcoming Events](http://clublounge.meteorapp.com/#/upcomingevents)
+#### Upcoming Events
 Upcoming events shows all the events hosted by the clubs
 and user is given an option to either register for 
 the event or see more info about the event.
 
-![](images/upcoming-events.PNG)
+Another great feature to our upcoming events is that we
+have a search bar for the events based on their tags, so
+user can find events that relates to them the most. 
 
-#### [Join a club](http://clublounge.meteorapp.com/#/joinclub)
-Join a club page shows all the clubs and gives the user an option
-to either join the club or see more info abou the club. Once they
-join the club, the join club option will be disabled. 
+![](images/upcomingevents.PNG)
 
-![](images/join.PNG)
+#### Clubs
+This page shows all the clubs and gives the user an option
+to see more info about the club.
+
+![](images/clubs.PNG)
+
+Once the user clicks on the "more info", they will be greeted
+with a different page containing all the information about
+the club and option to join the club. 
+
+![](images/club-user.PNG) 
 
 #### [Create a club](http://clublounge.meteorapp.com/#/create)
 Create a club presents a form where the user can create a club
@@ -211,6 +220,14 @@ clubs and registered events.
 * More info on "Join a club" will be able to show 
 all the events hosted by the club themselves, even the
 members of the club. 
+
+#### Jun Miao - *Tag system for events*
+
+#### Nomin Boldbayar - *Profile: showing clubs and events*
+
+#### Vince Khyla Rabang - *Events: showing tags on events*
+
+#### Sang Jin Lee - *Clubs: showing hosted events on club info*
 
 ## Future Systems:
 * Different Navigation bar/pages for visitor/login-user/login club board members/administrator

@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e3bd155-615c-44b5-a0fc-be26dbdbd5d8" name="Default Changelist" comment="" />
+    <list default="true" id="9e3bd155-615c-44b5-a0fc-be26dbdbd5d8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/approve.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/club-admin.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/club-user.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/clubs.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/event-admin.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/event-user.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/landingpage.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/profile.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/requestpage.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tags.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/upcomingevents.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/landing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +57,9 @@
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Nomin\OneDrive\Documents\GitHub\club-lounge.github.io\images" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Nomin\OneDrive\Documents\GitHub\club-lounge.github.io\images" />
     </key>
